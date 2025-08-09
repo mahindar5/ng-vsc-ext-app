@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1754725668801,
+  "timestamp": 1754725914798,
   "index": "/ng-vsc-ext-app/index.html",
   "assetGroups": [
     {
@@ -42,7 +42,7 @@
         "/ng-vsc-ext-app/chunk-ZZYKJDH4.js",
         "/ng-vsc-ext-app/favicon.ico",
         "/ng-vsc-ext-app/index.html",
-        "/ng-vsc-ext-app/main-5IAIJTG3.js",
+        "/ng-vsc-ext-app/main-INIU6ZCA.js",
         "/ng-vsc-ext-app/manifest.webmanifest",
         "/ng-vsc-ext-app/styles-6AT4K5XN.css"
       ],
@@ -108,8 +108,8 @@
     "/ng-vsc-ext-app/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
     "/ng-vsc-ext-app/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
     "/ng-vsc-ext-app/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
-    "/ng-vsc-ext-app/index.html": "0ce22f2fae730fef9cc5a6f06601de69f2373d9f",
-    "/ng-vsc-ext-app/main-5IAIJTG3.js": "96505489c76b470b440641a898ceac266b954bfb",
+    "/ng-vsc-ext-app/index.html": "c740063bd687ecf5733f9c9d02b150f8abd590df",
+    "/ng-vsc-ext-app/main-INIU6ZCA.js": "f36a9b43b07694a693be8476e1f6009d5d632cf9",
     "/ng-vsc-ext-app/manifest.webmanifest": "34bc7bf5aa7c59458094bb49ecb949f573603edd",
     "/ng-vsc-ext-app/styles-6AT4K5XN.css": "e4a8e640113f3e4b391cb83f85e6d07444e205c7"
   },
