@@ -1,0 +1,18 @@
+name: ng-vsc-ext-app-npmpackage-ghpages-dispatch
+
+on:
+  # push:
+  #   branches: [ main ]
+  workflow_dispatch:
+  repository_dispatch:
+    types: [ng-vsc-ext-app-updated]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+  packages: read
+
+jobs:
+  ng-vsc-ext-app-npmpackage-ghpages:
+    uses: mahindar5/ng-ion-app/.github/workflows/_npmpackage-ghpages.yml@main
